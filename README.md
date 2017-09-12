@@ -1,6 +1,8 @@
-**Papers**: _Papers for XAI reading group at Oregon State_
+Papers
 =======
 Sam Greydanus. 2017. MIT License.
+
+**Papers for my work with the XAI reading group at Oregon State.**
 
 * [saliency.ipynb](https://nbviewer.jupyter.org/github/greydanus/papers/blob/master/saliency.ipynb)
 
