@@ -2,7 +2,7 @@ Papers
 =======
 Sam Greydanus. 2017. MIT License.
 
-* [saliency.ipynb](https://nbviewer.jupyter.org/github/greydanus/papers/blob/master/saliency-papers.ipynb)
+* [saliency-papers.ipynb](https://nbviewer.jupyter.org/github/greydanus/papers/blob/master/saliency-papers.ipynb)
 
 About
 --------
